@@ -1,0 +1,28 @@
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(10, 9, 19);
+  justify-content: space-around;
+  align-items: center;
+  color: aliceblue;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+button {
+  color: aliceblue;
+  font-size: 15px;
+  background-color: black;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.brand {
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 100;
+}

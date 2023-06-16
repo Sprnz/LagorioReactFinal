@@ -1,0 +1,18 @@
+.cart-container:hover {
+  background-color: aliceblue;
+}
+
+.cart-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 15px;
+  width: 50px;
+}
+
+.notif {
+  background-color: rgb(221, 8, 8);
+  border-radius: 100px;
+  text-align: center;
+  width: 15px;
+}
